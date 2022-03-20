@@ -18,3 +18,5 @@ This will install the app dependencies, start an instance of webpack-dev-server 
 ## A note on debugging
 
  For development and debugging, attach the device to your machine using a cable and access the url `chrome://inspect/#devices` in your desktop version of Chrome. Allow debug access when prompted on your device. You should then be able to see your device appear in the inspection window you opened earlier, where you can use the `inspect` functionality to get access to the running app instance for debugging.
+
+ [Remote debug Android devices](https://developer.chrome.com/docs/devtools/remote-debugging/)
