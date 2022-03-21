@@ -6,6 +6,10 @@ The `master` branch contains the project starter code, which is intended for use
 
 The `production` branch contains the full completed project code, with some added comments to explain key points.
 
+## Demo
+
+<img src="demo/demo.gif" width="240" height="520">
+
 ## Running the app
 
 To get up and running, clone the repo and run the following commands to install dependencies and start the app using [localtunnel](https://github.com/localtunnel/localtunnel).
